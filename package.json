@@ -1,0 +1,12 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "create-react-component": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
