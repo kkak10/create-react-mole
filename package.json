@@ -1,10 +1,11 @@
 {
-  "name": "cli-tool",
+  "name": "create-react-mole",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "create-react-component": "./index.js"
+    "create-react-mole": "./index.js",
+    "crmole": "./index.js"
   },
   "dependencies": {
     "commander": "^2.15.1",
