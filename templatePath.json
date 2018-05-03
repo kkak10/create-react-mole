@@ -1,0 +1,22 @@
+[
+  {
+    "templatePath": "/templates/component.txt",
+    "templateOutputPath": "./index.js"
+  },
+  {
+    "templatePath": "/templates/styles.txt",
+    "templateOutputPath": "./styles.scss"
+  },
+  {
+    "templatePath": "/templates/test.txt",
+    "templateOutputPath": "./#{name}.test.js"
+  },
+  {
+    "templatePath": "/templates/stories.txt",
+    "templateOutputPath": "./#{name}.stories.js"
+  },
+  {
+    "templatePath": "/templates/messages.txt",
+    "templateOutputPath": "./messages.js"
+  }
+]
