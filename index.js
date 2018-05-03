@@ -26,4 +26,4 @@ VOMapper.mapping(TemplateVO, TEMPLATE_PATH, (v) => ({
   newSubStr: name,
 })).forEach(v => TemplateGenerator.generate(v));
 
-console.log('success 😎');
+console.log("Success! Let's code the component 😎");
