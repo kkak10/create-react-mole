@@ -8,6 +8,7 @@
     "crmole": "./index.js"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "lodash": "^4.17.10",
     "shortid": "^2.2.8"

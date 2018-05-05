@@ -1,6 +1,7 @@
 const fs = require('fs');
 const _ = require('lodash');
 const shortid = require('shortid');
+const chalk = require('chalk');
 const CONSTANTS = require('./constants');
 
 const replaceAll = (str = '', target, replaceStr) => str.replace(new RegExp(target, 'gi'), replaceStr);
@@ -37,6 +38,9 @@ const loadMetaData = (path) => {
   return metaData;
 };
 
+const successLog = (msg) => console.log(chalk.blue(msg));
+const errorLog = (msg) => console.log(chalk.red(msg));
+
 module.exports = {
   replaceAll,
   readFileAndReplace,
@@ -53,4 +57,6 @@ module.exports = {
   createError,
   deepFreeze,
   loadMetaData,
+  successLog,
+  errorLog,
 };
