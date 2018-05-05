@@ -1,6 +1,11 @@
 # Create-React-Mole 
 Auto generate component basic file to cli
 
+## Quick Overview
+```
+create-react-mole Title
+```
+
 ## TODOs
 - [x] CLI에서 이름 설정할때 --name 없이 하도록 수정
 - [ ] 빌드 시스템 추가
