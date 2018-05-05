@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "create-react-mole": "./index.js",
-    "crmole": "./index.js"
+    "create-react-mole": "./src/index.js",
+    "crmole": "./src/index.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",

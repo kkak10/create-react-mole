@@ -6,7 +6,7 @@ const TemplateVO = require('./TemplateVO');
 const VOMapper = require('./VOMapper');
 const CONSTANST = require('./constants');
 const {loadMetaData, successLog, errorLog} = require('./utils');
-const TEMPLATE_PATH = loadMetaData('./templatePath.json');
+const TEMPLATE_PATH = loadMetaData('./data/templatePath.json');
 
 program
   .arguments('<name>')
