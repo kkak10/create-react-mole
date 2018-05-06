@@ -1,8 +1,7 @@
 {
   "name": "create-react-mole",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT",
   "bin": {
     "create-react-mole": "./src/index.js",
     "crmole": "./src/index.js"
@@ -12,5 +11,12 @@
     "commander": "^2.15.1",
     "lodash": "^4.17.10",
     "shortid": "^2.2.8"
-  }
+  },
+  "repository": "https://github.com/kkak10/create-react-mole",
+  "engines": {
+    "node": ">= 8.9.0"
+  },
+  "preferGlobal": true,
+  "author": "Lee Hanur",
+  "license": "MIT"
 }
