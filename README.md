@@ -12,7 +12,7 @@ Generate file
 
 ## Install
 ```
-yarn global install create-react-mole
+npm install -g create-react-mole
 ```
 
 ## Quick Usage
@@ -21,6 +21,7 @@ create-react-mole <Component-Name>
 ```
 
 ```
+mkdir Title && cd Title
 create-react-mole Title
 ```
 
