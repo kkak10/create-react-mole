@@ -14,10 +14,6 @@ Generate file
 - AnyThing!
 - AnyThing!
 - AnyThing!
-- AnyThing!
-- AnyThing!
-- AnyThing!
-- AnyThing!
 
 ## Install
 ```
