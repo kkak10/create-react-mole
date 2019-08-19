@@ -9,6 +9,15 @@ Generate file
 - Story File (Storybook)
 - test File (Jest)
 - i18n message File (React-intl)
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
+- AnyThing!
 
 ## Install
 ```
