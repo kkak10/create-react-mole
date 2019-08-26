@@ -37,3 +37,4 @@ crmole Title
 - [ ] Developed style file extension to be set between scss and css
 - [ ] Added option to generate only necessary files
 - [ ] Add custom template setting
+- [ ] ...
