@@ -3,7 +3,6 @@
   "version": "0.0.0-development",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
     "semantic-release": "semantic-release"
   },
   "bin": {
