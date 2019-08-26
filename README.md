@@ -28,7 +28,7 @@ create-react-mole Title
 support alias command
 
 ```
-crmole Title
+crmole Title 
 ```
 
 ## TODOs
