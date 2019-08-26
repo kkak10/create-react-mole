@@ -25,11 +25,6 @@
   "engines": {
     "node": ">= 8.9.0"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn test"
-    }
-  },
   "preferGlobal": true,
   "author": "Lee Hanur",
   "license": "MIT"
