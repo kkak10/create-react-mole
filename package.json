@@ -16,6 +16,7 @@
     "shortid": "^2.2.8"
   },
   "devDependencies": {
+    "@semantic-release/git": "^7.0.16",
     "husky": "^1.0.0-rc.2",
     "jest": "^22.4.3",
     "semantic-release": "^15.13.24"
