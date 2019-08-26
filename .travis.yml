@@ -10,9 +10,6 @@ before_install:
 install:
   - npm i
 
-script:
-  - npm test
-
 jobs:
   include:
     # Define the release stage that runs semantic-release
