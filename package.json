@@ -1,6 +1,6 @@
 {
   "name": "create-react-mole",
-  "version": "0.0.0-development",
+  "version": "1.2.0",
   "main": "index.js",
   "scripts": {
     "semantic-release": "semantic-release"
