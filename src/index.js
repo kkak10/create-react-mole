@@ -19,7 +19,7 @@ program
 
     successLog('Successed! Let\'s coding the component 😎😎😎😎');
   })
-  .version('0.1.0')
+  .version('0.2.0')
   .parse(process.argv);
 
 const name = program.args[0];
