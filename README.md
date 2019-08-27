@@ -1,7 +1,7 @@
 # Create-React-Mole 
 Auto generate component basic file to cli
 
-This CLI tool is a tool that generates the necessary files when developing React Component.
+This CLI Tool is a tool that generates the necessary files when developing React Component.
 
 Generate file
 - Component JS File (React)
