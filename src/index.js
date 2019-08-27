@@ -17,7 +17,7 @@ program
       newSubStr: name,
     })).forEach(v => TemplateGenerator.generate(v));
 
-    successLog('Success! Let\'s coding the component 😎');
+    successLog('Successed! Let\'s coding the component 😎');
   })
   .version('0.1.0')
   .parse(process.argv);
