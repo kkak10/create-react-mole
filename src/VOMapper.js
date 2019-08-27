@@ -9,7 +9,7 @@ class VOMapper {
     if (!isArray(data) && !isObject(data)) throw createInvalidTypeError('data');
     if (!isFunction(transformFunction)) throw createInvalidTypeError('transformFunction');
 
-    const createVO = (v) => new classType(transformFunction(v));
+    const createVO = (v) => {return new classType(transformFunction(v));}
 
     return isArray(data)
       ? data.map(v => createVO(v))
