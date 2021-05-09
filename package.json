@@ -12,7 +12,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "shortid": "^2.2.8"
   },
   "devDependencies": {
